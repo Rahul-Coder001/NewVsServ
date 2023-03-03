@@ -1,6 +1,0 @@
---2023-03-03 15:26:29--  https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-community-server-connector/0.25.7/vspackage
-Resolving marketplace.visualstudio.com (marketplace.visualstudio.com)... 13.107.42.18, 2620:1ec:a92::175
-Connecting to marketplace.visualstudio.com (marketplace.visualstudio.com)|13.107.42.18|:443... connected.
-HTTP request sent, awaiting response... 429 
-2023-03-03 15:26:29 ERROR 429: (no description).
-
